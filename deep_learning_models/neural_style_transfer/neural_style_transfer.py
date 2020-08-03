@@ -40,7 +40,7 @@ def image_loader(image_name):
 
 
 style_img = image_loader("./images/mughal_miniature.jpg")
-content_img = image_loader("./images/nun.jpg")
+content_img = image_loader("./images/fish.jpg")
 
 print(style_img.size())
 print(content_img.size())
